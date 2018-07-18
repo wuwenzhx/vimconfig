@@ -43,7 +43,7 @@ set   hlsearch
 set   ignorecase
 set   incsearch
 set   laststatus=2
-set   mouse=a
+set   mouse-=a
 set   number
 set   pumheight=10
 set   ruler
